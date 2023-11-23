@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/PHP-DI/PHP-DI.git
+	fetch = +refs/*:refs/*
+	mirror = true

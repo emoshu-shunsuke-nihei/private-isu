@@ -1,0 +1,6 @@
+---
+1.0.0 rack:>= 0,rack:>= 0|checksum:d87daf1f7d12a1493985b052ddfef76c16816342e721791d6e9f3c244c0ab01d,ruby:>= 1.9
+1.0.1 rack:>= 0,rack:>= 0|checksum:375768f6c97e30c622de48aaf65eacb880d9afb51b1412549b238b808bf4d083
+1.0.2 rack:>= 0,rack:>= 0|checksum:5b6c91f0436aaabf5584c87944a5e1229da61e8e55eb3f971eab22f4884c36d7
+1.0.3 rack:>= 0,rack:>= 0|checksum:04ca3e2ccb01975e32bab75b756e13fcc212dd8e6493c5700cab4631f662bca7
+1.0.5 rack:>= 0|checksum:1f57e26429d7987fdb3c65a2f0da95717bed99ad3e5e45d847da689b9d4a3566,ruby:>= 1.8,rubygems:>= 1.3.6
