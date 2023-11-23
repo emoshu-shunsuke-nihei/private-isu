@@ -1,0 +1,5 @@
+./cli.go
+./main.go
+./scenario.go
+./userdata.go
+./version.go
